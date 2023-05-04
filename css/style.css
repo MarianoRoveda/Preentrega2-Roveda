@@ -10766,13 +10766,13 @@ footer .copy {
   justify-content: center;
   padding: 30px;
 }
-.descripcion{
+
+.descripcion {
   display: flex;
   justify-content: center;
   padding: 10px;
-  font-size: 20px;
-  color: #000;
-  text-align: center;
+  font-size: 25px;
+  color: aqua;
 }
 
 /*# sourceMappingURL=style.css.map */
