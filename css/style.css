@@ -10735,5 +10735,12 @@ textarea.form-control-lg {
     align-items: center;
   }
 }
+:root {
+  --colorTitulos: #000;
+  --colorTextos: #000;
+  --colorFondo: #e0c592;
+  --paddingSecciones: 60px 0
+  --marginElementos: 40px ;
+}
 
 /*# sourceMappingURL=style.css.map */
