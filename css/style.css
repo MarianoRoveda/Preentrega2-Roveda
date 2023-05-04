@@ -10743,4 +10743,28 @@ textarea.form-control-lg {
   --marginElementos: 40px ;
 }
 
+footer .titulo-seccion {
+  color: var(--colorTitulos);
+}
+
+footer .copy {
+  color: #000;
+}
+
+.redesSociales {
+  display: flex;
+  justify-content: center;
+}
+
+.redesSociales i {
+  font-size: 30px;
+  padding: 0 30px;
+}
+
+.contenedor {
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+}
+
 /*# sourceMappingURL=style.css.map */
