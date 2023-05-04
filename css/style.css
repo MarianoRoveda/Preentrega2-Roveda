@@ -10776,4 +10776,10 @@ footer .copy {
   text-align: center;
 }
 
+.col-12 {
+  flex: 0 0 auto;
+  width: 100%;
+  padding: 10px;
+}
+
 /*# sourceMappingURL=style.css.map */
